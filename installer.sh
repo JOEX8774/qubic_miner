@@ -23,7 +23,8 @@ get_miner_name() {
 }
 
 get_distributor_id() {
-    local disctributor_id=$(lsb_release -ds | grep -o "^\w*\b" | tr "[:upper:]" "[:lower:]")
+    local disctributor_id="ubuntu"
+    #local disctributor_id=$(lsb_release -ds | grep -o "^\w*\b" | tr "[:upper:]" "[:lower:]")
     echo "$disctributor_id"
 }
 
