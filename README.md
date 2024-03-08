@@ -11,7 +11,7 @@ apt-get update && apt-get install -y libicu-dev && apt-get clean all
 ```bash 
 bash installer.sh -v 1.8.6 -m miner_Alias -c threads -a -t token
 ```
-## update version
+### update version
 ```bash 
 bash installer.sh -v 1.8.7 -m miner_Alias -c threads -a -t token
 ```
