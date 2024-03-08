@@ -19,5 +19,5 @@ bash installer.sh -v 1.8.7 -m miner_Alias -c threads -a -t token
 ## Ubuntu22 GPU
 appsetting.json add config
 ```bash
-"allowHwInfoCollect": true, "overwrites": {"CUDA": "12"}"overwrites": {"CUDA": "12"}
+"allowHwInfoCollect": true, "overwrites": {"CUDA": "12"}
 ```
