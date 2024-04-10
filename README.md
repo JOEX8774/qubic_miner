@@ -1,6 +1,6 @@
 # Qubicli Miner Installer
 ## Offical Url  
-[qubic-client](https://github.com/qubic-li/clienthttps://github.com/qubic-li/client)  
+[qubic-client](https://github.com/qubic-li/client)  
 [qubicli-miner-installer](https://github.com/Qubic-World/qubicli-miner-installer)  
 ## Ubuntu22 CPU
 ### Requirements
